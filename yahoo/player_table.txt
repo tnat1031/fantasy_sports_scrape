@@ -1,0 +1,401 @@
+player	pos	team	owner
+Mike Trout	LAA	OF	Life &amp; Times of Bill
+Miguel Cabrera	Det	3B	(P)IMP
+Ryan Braun	Mil	OF	Life &amp; Times of Bill
+Robinson Cano	NYY	2B	David Estes' Testes
+Matt Kemp	LAD	OF	David Estes' Testes
+Andrew McCutchen	Pit	OF	David Estes' Testes
+Joey Votto	Cin	1B	Khal Drogo
+Carlos Gonzalez	Col	OF	Brace Land
+Albert Pujols	LAA	1B	I Have AIDs
+Giancarlo Stanton	Mia	OF	Mammy's Dumplings
+Prince Fielder	Det	1B	8===D Tation
+Jose Bautista	Tor	OF	I Have AIDs
+Troy Tulowitzki	Col	SS	FA
+Adrian Beltre	Tex	3B	FA
+Jose Reyes	Tor	SS	Khal Drogo
+Bryce Harper	Was	OF	Brace Land
+Dustin Pedroia	Bos	2B	FA
+Evan Longoria	TB	3B	8===D Tation
+Justin Upton	Atl	OF	Honey Badgers
+David Wright	NYM	3B	Khal Drogo
+Josh Hamilton	LAA	OF	FA
+Yoenis Cespedes	Oak	OF	8===D Tation
+Ian Kinsler	Tex	2B	FA
+Buster Posey	SF	C,1B	Life &amp; Times of Bill
+Jason Heyward	Atl	OF	8===D Tation
+Ryan Zimmerman	Was	3B	FA
+Edwin Encarnacion	Tor	1B	Mammy's Dumplings
+Adam Jones	Bal	OF	RIP Ralph Cifaretto
+Jacoby Ellsbury	Bos	OF	Mammy's Dumplings
+Jay Bruce	Cin	OF	FA
+Starlin Castro	ChC	SS	Honey Badgers
+B.J. Upton	Atl	OF	FA
+Paul Goldschmidt	Ari	1B	(P)IMP
+Billy Butler	KC	1B	(P)IMP
+Allen Craig	StL	1B,OF	FA
+Matt Holliday	StL	OF	FA
+Adrian Gonzalez	LAD	1B,OF	FA
+Ben Zobrist	TB	2B,SS,OF	FA
+Pablo Sandoval	SF	3B	FA
+Jason Kipnis	Cle	2B	FA
+Ian Desmond	Was	SS	RIP Ralph Cifaretto
+Aramis Ramirez	Mil	3B	FA
+Brett Lawrie	Tor	3B	FA
+Aaron Hill	Ari	2B	FA
+Jimmy Rollins	Phi	SS	FA
+Anthony Rizzo	ChC	1B	Brace Land
+Brandon Phillips	Cin	2B	FA
+Joe Mauer	Min	C,1B	Mammy's Dumplings
+Desmond Jennings	TB	OF	FA
+Alex Rios	CWS	OF	Honey Badgers
+Carlos Santana	Cle	C,1B	FA
+Elvis Andrus	Tex	SS	FA
+Shin-Soo Choo	Cin	OF	FA
+Freddie Freeman	Atl	1B	FA
+Michael Bourn	Cle	OF	FA
+Martin Prado	Ari	2B,3B,SS,OF	FA
+Ryan Howard	Phi	1B	Honey Badgers
+Victor Martinez	Det	C	FA
+Ike Davis	NYM	1B	FA
+Yadier Molina	StL	C	FA
+Alex Gordon	KC	OF	FA
+Austin Jackson	Det	OF	I Have AIDs
+Asdrubal Cabrera	Cle	SS	FA
+Paul Konerko	CWS	1B	FA
+Eric Hosmer	KC	1B	FA
+Carlos Gomez	Mil	OF	FA
+David Freese	StL	3B	FA
+Jose Altuve	Hou	2B	FA
+Mark Trumbo	LAA	1B,3B,OF	(P)IMP
+Shane Victorino	Bos	OF	FA
+Matt Wieters	Bal	C	I Have AIDs
+Carlos Beltran	StL	OF	FA
+Nelson Cruz	Tex	OF	FA
+Rickie Weeks	Mil	2B	FA
+Hanley Ramirez	LAD	3B,SS	Brace Land
+Melky Cabrera	Tor	OF	FA
+Wilin Rosario	Col	C	FA
+Curtis Granderson	NYY	OF	FA
+Chase Utley	Phi	2B	RIP Ralph Cifaretto
+Chase Headley	SD	3B	Life &amp; Times of Bill
+Hunter Pence	SF	OF	FA
+Miguel Montero	Ari	C	FA
+Chris Davis	Bal	1B,OF	FA
+Josh Willingham	Min	OF	FA
+Mike Moustakas	KC	3B	FA
+Mike Napoli	Bos	C,1B	Khal Drogo
+Salvador Perez	KC	C	FA
+Norichika Aoki	Mil	OF	FA
+David Ortiz	Bos	1B	FA
+Will Middlebrooks	Bos	3B	FA
+Nick Swisher	Cle	1B,OF	FA
+Alejandro De Aza	CWS	OF	FA
+Nick Markakis	Bal	OF	FA
+Neil Walker	Pit	2B	FA
+Angel Pagan	SF	OF	FA
+Todd Frazier	Cin	1B,3B,OF	FA
+Carl Crawford	LAD	OF	FA
+Andre Ethier	LAD	OF	FA
+Kyle Seager	Sea	2B,3B	FA
+Adam LaRoche	Was	1B	FA
+Derek Jeter	NYY	SS	FA
+Ichiro Suzuki	NYY	OF	FA
+Danny Espinosa	Was	2B,SS	FA
+Brian McCann	Atl	C	FA
+Adam Dunn	CWS	1B,OF	FA
+Jesus Montero	Sea	C	FA
+Ben Revere	Phi	OF	FA
+Coco Crisp	Oak	OF	FA
+Michael Cuddyer	Col	1B,OF	FA
+Brett Gardner	NYY	OF	FA
+Pedro Alvarez	Pit	3B	FA
+Erick Aybar	LAA	SS	FA
+Dan Uggla	Atl	2B	FA
+Alcides Escobar	KC	SS	FA
+Dexter Fowler	Col	OF	FA
+Josh Reddick	Oak	OF	FA
+Michael Morse	Sea	OF	FA
+Josh Rutledge	Col	2B,SS	FA
+Howie Kendrick	LAA	2B	FA
+Adam Eaton	Ari	OF	FA
+A.J. Pierzynski	Tex	C	FA
+Brandon Belt	SF	1B	FA
+Justin Morneau	Min	1B	FA
+J.J. Hardy	Bal	SS	FA
+Jayson Werth	Was	OF	FA
+Torii Hunter	Det	OF	FA
+Kendrys Morales	Sea	1B	FA
+Alfonso Soriano	ChC	OF	FA
+Everth Cabrera	SD	2B,SS	FA
+Jason Kubel	Ari	OF	FA
+Lance Berkman	Tex	1B	FA
+Jonathan Lucroy	Mil	C	FA
+Mark Teixeira	NYY	1B	FA
+Lorenzo Cain	KC	OF	FA
+Dayan Viciedo	CWS	OF	FA
+Dustin Ackley	Sea	1B,2B	FA
+Kevin Youkilis	NYY	1B,3B	FA
+Manny Machado	Bal	3B	FA
+Starling Marte	Pit	OF	FA
+Juan Pierre	Mia	OF	FA
+Cameron Maybin	SD	OF	FA
+Alexei Ramirez	CWS	SS	FA
+Ryan Doumit	Min	C,OF	FA
+Jed Lowrie	Oak	SS	FA
+Andrelton Simmons	Atl	SS	FA
+Emilio Bonifacio	Tor	2B,OF	FA
+Corey Hart	Mil	1B,OF	FA
+Alex Avila	Det	C	FA
+Michael Young	Phi	1B,2B,3B	FA
+Carlos Quentin	SD	OF	FA
+Justin Ruggiano	Mia	OF	FA
+Cody Ross	Ari	OF	FA
+Marco Scutaro	SF	2B,3B,SS	FA
+Wil Myers	TB	OF	FA
+David Murphy	Tex	OF	FA
+Oscar Taveras	StL	OF	FA
+Domonic Brown	Phi	OF	FA
+J.P. Arencibia	Tor	C	FA
+Colby Rasmus	Tor	OF	FA
+Zack Cozart	Cin	SS	FA
+Drew Stubbs	Cle	OF	FA
+Jean Segura	Mil	SS	FA
+Leonys Martin	Tex	OF	FA
+Jarrod Saltalamacchia	Bos	C	FA
+Garrett Jones	Pit	1B,OF	FA
+Chris Young	Oak	OF	FA
+Tyler Colvin	Col	1B,OF	FA
+Jedd Gyorko	SD	3B	FA
+Adam Lind	Tor	1B	FA
+Chris Carter	Hou	1B	FA
+Denard Span	Was	OF	FA
+Justin Smoak	Sea	1B	FA
+Trevor Plouffe	Min	3B,OF	FA
+Ryan Ludwick	Cin	OF	FA
+Jurickson Profar	Tex	Util	FA
+Michael Saunders	Sea	OF	FA
+Jon Jay	StL	OF	FA
+Omar Infante	Det	2B	FA
+Mark Reynolds	Cle	1B,3B	FA
+Russell Martin	Pit	C	FA
+Yonder Alonso	SD	1B	FA
+Kelly Johnson	TB	2B	FA
+Logan Morrison	Mia	1B,OF	FA
+Lonnie Chisenhall	Cle	3B	FA
+Jhonny Peralta	Det	SS	FA
+Billy Hamilton	Cin	SS	FA
+Juan Francisco	Atl	3B	FA
+Matt Carpenter	StL	1B,3B,OF	FA
+Tyler Greene	Hou	2B,SS	FA
+Daniel Murphy	NYM	1B,2B	FA
+Yunel Escobar	TB	SS	FA
+Stephen Drew	Bos	SS	FA
+Nate McLouth	Bal	OF	FA
+Welington Castillo	ChC	C	FA
+Hiroyuki Nakajima	Oak	SS	FA
+Carlos Pena	Hou	1B	FA
+Chris Parmelee	Min	1B,OF	FA
+Michael Brantley	Cle	OF	FA
+Nolan Arenado	Col	3B	FA
+Peter Bourjos	LAA	OF	FA
+Clayton Kershaw	LAD	SP	I Have AIDs
+Justin Verlander	Det	SP	Life &amp; Times of Bill
+Stephen Strasburg	Was	SP	I Have AIDs
+David Price	TB	SP	8===D Tation
+Felix Hernandez	Sea	SP	Honey Badgers
+Matt Cain	SF	SP	Life &amp; Times of Bill
+Cole Hamels	Phi	SP	Life &amp; Times of Bill
+Cliff Lee	Phi	SP	Life &amp; Times of Bill
+Adam Wainwright	StL	SP	FA
+Yu Darvish	Tex	SP	Brace Land
+Madison Bumgarner	SF	SP	8===D Tation
+Jered Weaver	LAA	SP	Mammy's Dumplings
+Craig Kimbrel	Atl	RP	David Estes' Testes
+CC Sabathia	NYY	SP	FA
+R.A. Dickey	Tor	SP	Khal Drogo
+Chris Sale	CWS	SP	RIP Ralph Cifaretto
+Gio Gonzalez	Was	SP	(P)IMP
+Zack Greinke	LAD	SP	8===D Tation
+Mat Latos	Cin	SP	David Estes' Testes
+Aroldis Chapman	Cin	RP	(P)IMP
+Kris Medlen	Atl	SP,RP	(P)IMP
+Johnny Cueto	Cin	SP	David Estes' Testes
+Max Scherzer	Det	SP	Khal Drogo
+Matt Moore	TB	SP	FA
+Jordan Zimmermann	Was	SP	(P)IMP
+Yovani Gallardo	Mil	SP	RIP Ralph Cifaretto
+James Shields	KC	SP	FA
+Jonathan Papelbon	Phi	RP	FA
+Brandon Morrow	Tor	SP	8===D Tation
+Jason Motte	StL	RP	Brace Land
+Jeff Samardzija	ChC	SP	Mammy's Dumplings
+Tim Lincecum	SF	SP	FA
+Rafael Soriano	Was	RP	FA
+Roy Halladay	Phi	SP	FA
+Ian Kennedy	Ari	SP	RIP Ralph Cifaretto
+Jake Peavy	CWS	SP	FA
+Jon Lester	Bos	SP	FA
+Josh Johnson	Tor	SP	FA
+Mariano Rivera	NYY	RP	FA
+Dan Haren	Was	SP	FA
+Fernando Rodney	TB	RP	FA
+Joe Nathan	Tex	RP	Brace Land
+J.J. Putz	Ari	RP	FA
+Matt Harvey	NYM	SP	FA
+Sergio Romo	SF	RP	FA
+Jim Johnson	Bal	RP	Honey Badgers
+Anibal Sanchez	Det	SP	I Have AIDs
+Doug Fister	Det	SP	FA
+Hiroki Kuroda	NYY	SP	Khal Drogo
+Greg Holland	KC	RP	FA
+Huston Street	SD	RP	FA
+Mike Minor	Atl	SP	FA
+John Axford	Mil	RP	FA
+Tom Wilhelmsen	Sea	RP	FA
+Brett Anderson	Oak	SP	FA
+Homer Bailey	Cin	SP	FA
+Joel Hanrahan	Bos	RP	FA
+Jonathon Niese	NYM	SP	FA
+C.J. Wilson	LAA	SP	FA
+Jarrod Parker	Oak	SP	FA
+Rafael Betancourt	Col	RP	FA
+Addison Reed	CWS	RP	FA
+Jason Grilli	Pit	RP	FA
+Ryan Vogelsong	SF	SP	Brace Land
+Glen Perkins	Min	RP	FA
+Josh Beckett	LAD	SP	FA
+Grant Balfour	Oak	RP	FA
+Chris Perez	Cle	RP	FA
+A.J. Burnett	Pit	SP	FA
+Derek Holland	Tex	SP	FA
+Jeremy Hellickson	TB	SP	David Estes' Testes
+Marco Estrada	Mil	SP,RP	FA
+Matt Garza	ChC	SP	FA
+Alex Cobb	TB	SP	FA
+Brandon McCarthy	Ari	SP	FA
+Bobby Parnell	NYM	RP	FA
+Lance Lynn	StL	SP,RP	Mammy's Dumplings
+Trevor Cahill	Ari	SP	FA
+Brandon League	LAD	RP	FA
+Tim Hudson	Atl	SP	Honey Badgers
+Edwin Jackson	ChC	SP	FA
+Steve Cishek	Mia	RP	FA
+Alexi Ogando	Tex	RP	FA
+Kenley Jansen	LAD	RP	FA
+Phil Hughes	NYY	SP	FA
+Carlos Marmol	ChC	RP	FA
+Casey Janssen	Tor	RP	FA
+Ernesto Frieri	LAA	RP	FA
+Wade Miley	Ari	SP	FA
+Ryan Dempster	Bos	SP	I Have AIDs
+Matt Harrison	Tex	SP	FA
+Clay Buchholz	Bos	SP	FA
+Shaun Marcum	NYM	SP	FA
+Andy Pettitte	NYY	SP	FA
+Jason Hammel	Bal	SP	FA
+Jose Veras	Hou	RP	FA
+Jonathan Broxton	Cin	RP	FA
+Jaime Garcia	StL	SP	FA
+Kyuji Fujikawa	ChC	RP	FA
+Ryan Madson	LAA	RP	FA
+Wei-Yin Chen	Bal	SP	FA
+Vinnie Pestano	Cle	RP	FA
+Wandy Rodriguez	Pit	SP	FA
+Chris Tillman	Bal	SP	FA
+Tommy Milone	Oak	SP	FA
+Kyle Lohse	StL	SP	FA
+Bruce Rondon	Det	RP	FA
+James McDonald	Pit	SP	FA
+Shelby Miller	StL	RP	FA
+Daniel Straily	Oak	SP	FA
+Hisashi Iwakuma	Sea	SP,RP	FA
+Johan Santana	NYM	SP	FA
+Ricky Romero	Tor	SP	FA
+Mike Fiers	Mil	SP	FA
+Tommy Hanson	LAA	SP	FA
+Sergio Santos	Tor	RP	FA
+A.J. Griffin	Oak	SP	FA
+Julio Teheran	Atl	SP	FA
+Dillon Gee	NYM	SP	FA
+Trevor Bauer	Cle	SP	FA
+Al Alburquerque	Det	RP	FA
+Hyun-Jin Ryu	LAD	SP	FA
+Jake McGee	TB	RP	FA
+Luke Gregerson	SD	RP	FA
+Andrew Cashner	SD	SP,RP	FA
+Wei-Yin Chen	Bal	SP	FA
+Vinnie Pestano	Cle	RP	FA
+Wandy Rodriguez	Pit	SP	FA
+Chris Tillman	Bal	SP	FA
+Tommy Milone	Oak	SP	FA
+Kyle Lohse	StL	SP	FA
+Bruce Rondon	Det	RP	FA
+James McDonald	Pit	SP	FA
+Shelby Miller	StL	RP	FA
+Daniel Straily	Oak	SP	FA
+Hisashi Iwakuma	Sea	SP,RP	FA
+Johan Santana	NYM	SP	FA
+Ricky Romero	Tor	SP	FA
+Mike Fiers	Mil	SP	FA
+Tommy Hanson	LAA	SP	FA
+Sergio Santos	Tor	RP	FA
+A.J. Griffin	Oak	SP	FA
+Julio Teheran	Atl	SP	FA
+Dillon Gee	NYM	SP	FA
+Trevor Bauer	Cle	SP	FA
+Al Alburquerque	Det	RP	FA
+Hyun-Jin Ryu	LAD	SP	FA
+Jake McGee	TB	RP	FA
+Luke Gregerson	SD	RP	FA
+Andrew Cashner	SD	SP,RP	FA
+Frank Francisco	NYM	RP	FA
+Paul Maholm	Atl	SP	FA
+Jeff Niemann	TB	SP	FA
+Tyler Skaggs	Ari	SP	FA
+David Robertson	NYY	RP	FA
+Felix Doubront	Bos	SP	FA
+Scott Baker	ChC	SP	FA
+Andrew Bailey	Bos	RP	FA
+Ryan Cook	Oak	RP	FA
+Tyler Clippard	Was	RP	FA
+Brandon Beachy	Atl	SP	FA
+Santiago Casilla	SF	RP	Mammy's Dumplings
+Jos Valverde	Det	RP	FA
+Sean Marshall	Cin	RP	FA
+Wilton Lopez	Col	RP	FA
+David Hernandez	Ari	RP	FA
+Darren O'Day	Bal	RP	FA
+Mark Buehrle	Tor	SP	RIP Ralph Cifaretto
+Ronald Belisario	LAD	RP	FA
+Craig Stammen	Was	RP	FA
+Koji Uehara	Bos	RP	FA
+Colby Lewis	Tex	SP	FA
+Jared Burton	Min	RP	FA
+Jason Vargas	LAA	SP	FA
+Darren Oliver	Tor	RP	FA
+Chris Capuano	LAD	SP	FA
+Drew Storen	Was	RP	FA
+Eric O'Flaherty	Atl	RP	FA
+Ross Detwiler	Was	SP,RP	FA
+Joel Peralta	TB	RP	FA
+Mitchell Boggs	StL	RP	FA
+Brad Ziegler	Ari	RP	FA
+Joe Smith	Cle	RP	FA
+Kelvin Herrera	KC	RP	FA
+Bartolo Colon	Oak	SP	FA
+Joaquin Benoit	Det	RP	FA
+Jerry Blevins	Oak	RP	FA
+Octavio Dotel	Det	RP	FA
+Miguel Gonzalez	Bal	SP	FA
+Jesse Crain	CWS	RP	FA
+Wade Davis	KC	RP	FA
+Eric Stults	SD	SP,RP	FA
+Robbie Ross	Tex	RP	FA
+Kyle Kendrick	Phi	SP,RP	FA
+Edward Mujica	StL	RP	FA
+Junichi Tazawa	Bos	RP	FA
+Mike Adams	Phi	RP	FA
+Nate Jones	CWS	RP	FA
+Josh Collmenter	Ari	SP,RP	FA
+Steve Delabar	Tor	RP	FA
